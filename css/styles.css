@@ -1,0 +1,33 @@
+h1 {
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 55px;
+  color: indigo
+
+}
+
+.a1 {
+  font-style: italic;
+  color: green;
+  font-family: 'Caveat', cursive;
+  font-size: 20pt
+}
+
+.a2 {
+  font-family: 'Kadwa', serif;
+  font-size: 15pt;
+
+
+}
+
+.a3{
+  font-family: sans-serif;
+  color: red;
+
+}
+
+div.h3{
+  font-family: sans-serif;
+  color: orange;
+
+}
