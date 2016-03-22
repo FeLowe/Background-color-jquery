@@ -31,3 +31,29 @@ div.h3{
   color: orange;
 
 }
+
+#light {
+  background-color: gray;
+  color: black;
+}
+
+#dark {
+  background-color: black;
+  color: gray;
+}
+
+.dark-background {
+  background-color: black;
+  color: gray;
+}
+
+.light-background {
+  background-color: gray;
+  color: black;
+}
+.highlight{
+  background-color: yellow;
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+}
